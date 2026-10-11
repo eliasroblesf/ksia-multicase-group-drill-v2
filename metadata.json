@@ -1,0 +1,8 @@
+{
+  "name": "ksia-multicase-group-drill",
+  "description": "Integrated Multi-Agency Crisis Operations \u0026 Cascading Disaster Simulator for KSIA Emergency Response Team Readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
